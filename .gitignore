@@ -1,1 +1,5 @@
 /.ipynb_checkpoints
+Report.pdf
+rewards.png
+checkpoint_actor.pth
+checkpoint_critic.pth
